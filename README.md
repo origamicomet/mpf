@@ -1,0 +1,1 @@
+![A screenshot of the bundled inspection tool](https://github.com/bitbytestudios/upf/raw/master/documentation/screenshot.png)
